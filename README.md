@@ -1,4 +1,9 @@
-# Employee Attrition Prediction
+# Employee Attrition Prediction Project
+
+## Overview
+This project implements a machine learning pipeline for predicting employee attrition using HR data. The system analyzes various factors that contribute to employee turnover and provides predictions to help HR departments take preventive measures.
+
+## Project Structure
 
 # Dataset Information
 
